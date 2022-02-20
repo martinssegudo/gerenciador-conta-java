@@ -1,11 +1,10 @@
-package br.com.gerenciadorconta;
+package br.com.accountmanager.accountmanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-public class GerenciadorContaApplicationTests {
-
+class ApplicationTests {
     @Test
     void contextLoads() {
     }
